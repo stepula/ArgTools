@@ -28,7 +28,7 @@ Přehraje .mid soubor
 # TTS
 Vysloví cokoliv jakýmkoliv jazykem
 <TTS -text "EXAMPLE" -lang cs>\
-Vysvětlivky:
+Vysvětlivky:\
 "EXAMPLE" = Text na vyslovení (Musí být v uvozovkách)\
 cs = Jazyk (musí být ze stánky https://www.iban.com/country-codes (sekce Alpha 2-code))
 
