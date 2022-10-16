@@ -18,8 +18,8 @@ Pípne frekvencí a délkou
 <Beep -freq (FREQ) -dur_ms (DUR_MS)>
  
 Vysvětlivky:
-  (FREQ) = Frekvence tónu
-  (DUR_MS) = Doba tónu v milisekundách
+(FREQ) = Frekvence tónu
+(DUR_MS) = Doba tónu v milisekundách
 
 # MidiPlay
 Přehraje .mid soubor
@@ -29,8 +29,8 @@ Přehraje .mid soubor
 Vysloví cokoliv jakýmkoliv jazykem
 <TTS -text "EXAMPLE" -lang cs>
 Vysvětlivky:
-  "EXAMPLE" = Text na vyslovení (Musí být v uvozovkách)
-  cs = Jazyk (musí být ze stánky https://www.iban.com/country-codes (sekce Alpha 2-code))
+"EXAMPLE" = Text na vyslovení (Musí být v uvozovkách)
+cs = Jazyk (musí být ze stánky https://www.iban.com/country-codes (sekce Alpha 2-code))
 
 
  
