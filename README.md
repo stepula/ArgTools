@@ -1,6 +1,8 @@
 # ArgTools
 ArgTools je kolekce nástrojů, které vám pomůžou zvětšit vaši produkci na počítači!
 
+Nejnovější verze je Alpha 9
+
 Nástroje v nejnovější verzi:
 Beep, MidiPlay, TTS, MultiLaunch 0.1
 
