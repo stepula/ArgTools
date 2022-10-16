@@ -18,7 +18,7 @@ Pípne frekvencí a délkou
 <Beep -freq (FREQ) -dur_ms (DUR_MS)>
  
 Vysvětlivky:
-(FREQ) = Frekvence tónu
+(FREQ) = Frekvence tónu,
 (DUR_MS) = Doba tónu v milisekundách
 
 # MidiPlay
